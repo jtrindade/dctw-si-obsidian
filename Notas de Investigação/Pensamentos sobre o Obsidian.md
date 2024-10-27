@@ -18,3 +18,4 @@ No final, regressamos à página [[Welcome|de boas-vindas]].
 * A ideia de apresentação em grafo é interessante.
 * A capacidade de adicionar fórmulas em sintaxe TeX, bem como a capacidade de apresentar código fonte com coloração sintática para múltiplas linguagens fonte e um extra interessante.
 * Vou colocar este conjunto de ficheiros no GitHub, para ver até onde vai a compatibilidade da sintaxe adotada pelo Obsidian com a do GitHub.
+* A sintaxe de ligação entre documentos não é diretamente compatível, mas a matemática em TeX e a coloração sintática de código fonte são. Ver [aqui](https://github.com/jtrindade/dctw-si-obsidian/tree/master/Notas%20de%20Investiga%C3%A7%C3%A3o).
