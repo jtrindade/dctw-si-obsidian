@@ -4,9 +4,9 @@ Já tenho o hábito de usar *markdown*, uma vez que junta a simplicidade do text
 
 O que terá mais o Obsidian?
 
-[[Um tema que me interessa]]
+* [[Um tema que me interessa]]
 
-[[Artigos sobre isto]]
+* [[Artigos sobre isto]]
 
 No final, regressamos à página [[Welcome|de boas-vindas]].
 

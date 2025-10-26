@@ -16,6 +16,9 @@ Não antecipo que venha a ser necessário utilizar a fórmula resolvente para eq
 $$x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 Interessante!
 
+Realmente, fazia mais sentido usar alguma fórmula ligada à Ciência Web, como esta, para cálculo do Page Rank (Google):
+$$PR(p_{i};t+1)={\frac {1-d}{N}}+d\sum _{p_{j}\in M(p_{i})}{\frac {PR(p_{j};t)}{L(p_{j})}}$$
+
 Suponho que também permita código em C...
 ```C
 #include <stdio.h>
@@ -30,4 +33,3 @@ val greeting = "Hello, $target!"
 fun main() = println(greeting)
 ```
 
-No final, faltaram apenas os emojis. :-/
